@@ -1,3 +1,6 @@
+![About Me](https://raw.githubusercontent.com/m1ggle/m1ggle/master/bio.gif)
+
+---  
 <h1 align="center">Hi 👋, I'm m1ggle</h1>
 <h3 align="center">A bigdata developer</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C33&center=true&vCenter=true&width=435&lines=%E6%88%91%E6%9C%89%E4%B8%80%E9%A6%96%E6%AD%8C%EF%BC%8C%E8%B6%B3%E4%BB%A5%E6%85%B0%E9%A3%8E%E5%B0%98" alt="Typing SVG" /></a>  
