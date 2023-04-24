@@ -1,4 +1,3 @@
-![About Me](https://raw.githubusercontent.com/m1ggle/m1ggle/master/bio.gif)
 
 ---  
 <h1 align="center">Hi 👋, I'm m1ggle</h1>
