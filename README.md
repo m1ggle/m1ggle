@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=m1ggle&show_icons=true&theme=dark&count_private=true)
-
+![m1ggle's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ggle&count_private=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
